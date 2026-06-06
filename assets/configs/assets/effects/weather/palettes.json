@@ -1,0 +1,3997 @@
+{
+  "f4deb864-d3b7-498d-82a4-7125d9d873b9": {
+    "uuid": "f4deb864-d3b7-498d-82a4-7125d9d873b9",
+    "name": "Inside",
+    "birch": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.9057944,
+            0.36578578,
+            1.0,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.9057944,
+            0.36578578,
+            1.0,
+            1.0
+          ],
+          "pos": 0.8340164,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.43254519,
+            0.9869584,
+            1.0,
+            1.0
+          ],
+          "pos": 0.8862706,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.43254519,
+            0.9869584,
+            1.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "maple": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.61960787,
+            0.28235295,
+            0.6784314,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.61960787,
+            0.28235295,
+            0.6784314,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "pine": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.52079684,
+            0.22523941,
+            0.57023644,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.5412169,
+            0.3178576,
+            0.57858133,
+            1.0
+          ],
+          "pos": 0.5153689,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.238192,
+            0.56864357,
+            0.57858133,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "polar": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.88535404,
+            0.22809452,
+            1.0,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.61960787,
+            0.28235295,
+            0.6784314,
+            1.0
+          ],
+          "pos": 0.5235655,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.23529412,
+            0.5686275,
+            0.5764706,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "spruce": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.61960787,
+            0.28235295,
+            0.6784314,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.61960787,
+            0.28235295,
+            0.6784314,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "willow": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.61960787,
+            0.28235295,
+            0.6784314,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.61960787,
+            0.28235295,
+            0.6784314,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "isDefault": false,
+    "isOverrideCustomColor": true,
+    "biomes": [
+      {
+        "id": 44,
+        "color": -4745783
+      }
+    ]
+  },
+  "094fdbf8-23c9-4eed-ab27-53d2a9d92c19": {
+    "uuid": "094fdbf8-23c9-4eed-ab27-53d2a9d92c19",
+    "name": "Inside Weak",
+    "birch": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.62566125,
+            0.44924667,
+            0.65785813,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.62566125,
+            0.44924667,
+            0.65785813,
+            1.0
+          ],
+          "pos": 0.36428574,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.3529412,
+            0.5803922,
+            0.29803923,
+            1.0
+          ],
+          "pos": 0.5408163,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.34182462,
+            0.5639374,
+            0.57023644,
+            1.0
+          ],
+          "pos": 0.7193877,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.34182462,
+            0.5639374,
+            0.57023644,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "maple": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.61960787,
+            0.28235295,
+            0.6784314,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.61960787,
+            0.28235295,
+            0.6784314,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "pine": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.58292955,
+            0.44041422,
+            0.60778856,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.58292955,
+            0.44041422,
+            0.60778856,
+            1.0
+          ],
+          "pos": 0.26224482,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.4509804,
+            0.5568628,
+            0.18039216,
+            1.0
+          ],
+          "pos": 0.4377551,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.26244918,
+            0.43678877,
+            0.44089007,
+            1.0
+          ],
+          "pos": 0.5877551,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.26244918,
+            0.43678877,
+            0.44089007,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "polar": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.61960787,
+            0.28235295,
+            0.6784314,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.61960787,
+            0.28235295,
+            0.6784314,
+            1.0
+          ],
+          "pos": 0.10510204,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.5686275,
+            0.69411767,
+            0.42745098,
+            1.0
+          ],
+          "pos": 0.80714285,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.23529412,
+            0.5686275,
+            0.5764706,
+            1.0
+          ],
+          "pos": 0.88061225,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.23529412,
+            0.5686275,
+            0.5764706,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "spruce": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.8015932,
+            0.4056592,
+            0.8706537,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.5176471,
+            0.58431375,
+            0.29803923,
+            1.0
+          ],
+          "pos": 0.422449,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.71360236,
+            0.5308563,
+            0.7454798,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "willow": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.61960787,
+            0.28235295,
+            0.6784314,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.61960787,
+            0.28235295,
+            0.6784314,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "isDefault": false,
+    "isOverrideCustomColor": true,
+    "biomes": [
+      {
+        "id": 44,
+        "color": -5400908
+      }
+    ]
+  },
+  "e31f9f33-5db3-4709-8105-16f7ac3392f0": {
+    "uuid": "e31f9f33-5db3-4709-8105-16f7ac3392f0",
+    "name": "Autumn 2025 ThermalHazard",
+    "birch": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.45757997,
+            0.45757538,
+            0.45757538,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.9791377,
+            0.2805318,
+            0.2805318,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "maple": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.28233653,
+            0.2823337,
+            0.2823337,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "pine": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.21140468,
+            0.21140257,
+            0.21140257,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.7705146,
+            0.32363755,
+            0.32363755,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "polar": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.22392207,
+            0.22391984,
+            0.22391984,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "spruce": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.7162726,
+            0.71626663,
+            0.71626544,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.52359414,
+            0.42420024,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "willow": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.24895686,
+            0.24895437,
+            0.24895437,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "isDefault": false,
+    "isOverrideCustomColor": true,
+    "biomes": []
+  },
+  "244c8005-672a-4c8c-8845-5f6e31f3397f": {
+    "uuid": "244c8005-672a-4c8c-8845-5f6e31f3397f",
+    "name": "Atmosphere RSTAG",
+    "birch": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.19471484,
+            0.19471289,
+            0.19471289,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.4951321,
+            0.22625802,
+            0.14805755,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "maple": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "pine": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.20723224,
+            0.20723017,
+            0.20723017,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.2460869,
+            0.27399164,
+            0.21225777,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "polar": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "spruce": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.557719,
+            0.5577134,
+            0.5577134,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.38526705,
+            0.42837274,
+            0.3211306,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "willow": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "isDefault": false,
+    "isOverrideCustomColor": false,
+    "biomes": [
+      {
+        "id": 6,
+        "color": -4999241
+      },
+      {
+        "id": 33,
+        "color": -9142156
+      }
+    ]
+  },
+  "fce061da-ede8-4619-9688-bb060e25a0e9": {
+    "uuid": "fce061da-ede8-4619-9688-bb060e25a0e9",
+    "name": "Bar Savezone",
+    "birch": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.69899,
+            0.69958276,
+            0.27341133,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.7921122,
+            0.8831711,
+            0.48150635,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "maple": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "pine": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "polar": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.7451464,
+            0.8164117,
+            0.34632203,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "spruce": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "willow": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "isDefault": false,
+    "isOverrideCustomColor": true,
+    "biomes": [
+      {
+        "id": 43,
+        "color": -3949650
+      }
+    ]
+  },
+  "0f5cc80c-c3b8-4537-bdde-24653a1261fd": {
+    "uuid": "0f5cc80c-c3b8-4537-bdde-24653a1261fd",
+    "name": "Exorcism",
+    "birch": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.30737132,
+            0.30736825,
+            0.30736825,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.69541025,
+            0.14120986,
+            0.14120986,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "maple": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            1.0E-6,
+            9.9999E-7,
+            9.9999E-7,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "pine": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            1.0E-6,
+            9.9999E-7,
+            9.9999E-7,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "polar": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            1.0E-6,
+            9.9999E-7,
+            9.9999E-7,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "spruce": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            1.0E-6,
+            9.9999E-7,
+            9.9999E-7,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "willow": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.29068148,
+            0.29067856,
+            0.2906797,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "isDefault": false,
+    "isOverrideCustomColor": true,
+    "biomes": []
+  },
+  "dbadba07-298b-478f-8a0f-4bed24884689": {
+    "uuid": "dbadba07-298b-478f-8a0f-4bed24884689",
+    "name": "Winter 2025",
+    "birch": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.99999,
+            1.0,
+            0.9999995,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "maple": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "pine": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "polar": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "spruce": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "willow": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "isDefault": false,
+    "isOverrideCustomColor": true,
+    "biomes": []
+  },
+  "e7021b00-ed13-4033-8842-1e820f94de5b": {
+    "uuid": "e7021b00-ed13-4033-8842-1e820f94de5b",
+    "name": "Spring 2026",
+    "birch": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.4758348,
+            0.557719,
+            0.32501286,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.611961,
+            0.55735976,
+            0.29789478,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "maple": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.23014161,
+            0.28650904,
+            0.12631899,
+            0.29803923
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.30266708,
+            0.3574409,
+            0.11583271,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "pine": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.21792941,
+            0.24478441,
+            0.14775582,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.43254519,
+            0.41405314,
+            0.18168098,
+            1.0
+          ],
+          "pos": 0.8647544,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.666203,
+            0.48732752,
+            0.18809345,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "polar": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.3659049,
+            0.42420024,
+            0.21357508,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.38651186,
+            0.394993,
+            0.23018366,
+            1.0
+          ],
+          "pos": 0.522541,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.33575383,
+            0.45340747,
+            0.14125627,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "spruce": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.69958276,
+            0.6426889,
+            0.41352248,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.69958276,
+            0.6212046,
+            0.41352248,
+            1.0
+          ],
+          "pos": 0.53381145,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.46626675,
+            0.5493741,
+            0.37516367,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "willow": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.50508064,
+            0.58431375,
+            0.29803923,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.34467262,
+            0.41568628,
+            0.18039216,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "isDefault": true,
+    "isOverrideCustomColor": true,
+    "biomes": [
+      {
+        "id": 0,
+        "color": 10073478
+      },
+      {
+        "id": 1,
+        "color": -7496827
+      },
+      {
+        "id": 2,
+        "color": -5198966
+      },
+      {
+        "id": 3,
+        "color": 9417358
+      },
+      {
+        "id": 4,
+        "color": -5519189
+      },
+      {
+        "id": 5,
+        "color": 9614237
+      },
+      {
+        "id": 6,
+        "color": -6971760
+      },
+      {
+        "id": 7,
+        "color": -5917283
+      },
+      {
+        "id": 10,
+        "color": 8696472
+      },
+      {
+        "id": 11,
+        "color": 8696472
+      },
+      {
+        "id": 12,
+        "color": 8696472
+      },
+      {
+        "id": 13,
+        "color": 8696472
+      },
+      {
+        "id": 14,
+        "color": 9745295
+      },
+      {
+        "id": 15,
+        "color": 9745295
+      },
+      {
+        "id": 16,
+        "color": 9484381
+      },
+      {
+        "id": 18,
+        "color": 10073478
+      },
+      {
+        "id": 19,
+        "color": 8893077
+      },
+      {
+        "id": 21,
+        "color": 9152133
+      },
+      {
+        "id": 22,
+        "color": 9152133
+      },
+      {
+        "id": 23,
+        "color": 12093057
+      },
+      {
+        "id": 24,
+        "color": 8817599
+      },
+      {
+        "id": 25,
+        "color": 15461355
+      },
+      {
+        "id": 26,
+        "color": 5394251
+      },
+      {
+        "id": 27,
+        "color": -4225194
+      },
+      {
+        "id": 28,
+        "color": -6312305
+      },
+      {
+        "id": 29,
+        "color": 10260126
+      },
+      {
+        "id": 30,
+        "color": 9680988
+      },
+      {
+        "id": 31,
+        "color": 10379095
+      },
+      {
+        "id": 32,
+        "color": 15059315
+      },
+      {
+        "id": 33,
+        "color": -6248814
+      },
+      {
+        "id": 34,
+        "color": 11915153
+      },
+      {
+        "id": 35,
+        "color": 9404516
+      },
+      {
+        "id": 36,
+        "color": 10053964
+      },
+      {
+        "id": 37,
+        "color": 15461355
+      },
+      {
+        "id": 38,
+        "color": 10854020
+      },
+      {
+        "id": 39,
+        "color": 14202237
+      },
+      {
+        "id": 40,
+        "color": 11390138
+      },
+      {
+        "id": 41,
+        "color": 12897446
+      },
+      {
+        "id": 42,
+        "color": 14083327
+      },
+      {
+        "id": 43,
+        "color": 15260617
+      },
+      {
+        "id": 44,
+        "color": -6577524
+      },
+      {
+        "id": 45,
+        "color": -2110308
+      },
+      {
+        "id": 46,
+        "color": 7109764
+      },
+      {
+        "id": 47,
+        "color": 11777975
+      },
+      {
+        "id": 48,
+        "color": 14983783
+      },
+      {
+        "id": 49,
+        "color": 15060366
+      },
+      {
+        "id": 50,
+        "color": 16766650
+      },
+      {
+        "id": 51,
+        "color": 6973802
+      },
+      {
+        "id": 52,
+        "color": 8618371
+      },
+      {
+        "id": 53,
+        "color": 10791588
+      }
+    ]
+  },
+  "c70fed96-b801-4353-a1d0-36f25964c4e3": {
+    "uuid": "c70fed96-b801-4353-a1d0-36f25964c4e3",
+    "name": "Autumn 2025 FFA",
+    "birch": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            1.0,
+            0.36862746,
+            0.23529412,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.8235294,
+            0.3019608,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "maple": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.5686275,
+            0.21960784,
+            0.11764706,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.5686275,
+            0.21960784,
+            0.11764706,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "pine": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.84313726,
+            0.46666667,
+            0.0,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.35686275,
+            0.17254902,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "polar": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            1.0,
+            0.25882354,
+            0.1764706,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.45882353,
+            0.12941177,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "spruce": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            1.0,
+            0.45882353,
+            0.12941177,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.98039216,
+            0.44313726,
+            0.2627451,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "willow": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.98039216,
+            0.44313726,
+            0.2627451,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.5294118,
+            0.21568628,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "isDefault": false,
+    "isOverrideCustomColor": true,
+    "biomes": [
+      {
+        "id": 0,
+        "color": -5065559
+      },
+      {
+        "id": 1,
+        "color": -5065559
+      },
+      {
+        "id": 5,
+        "color": -4412517
+      },
+      {
+        "id": 7,
+        "color": -4281433
+      },
+      {
+        "id": 14,
+        "color": -4281433
+      },
+      {
+        "id": 30,
+        "color": -5065559
+      },
+      {
+        "id": 33,
+        "color": -4281433
+      }
+    ]
+  },
+  "8a07f130-b2f2-4dbb-ab9b-599c91e8727e": {
+    "uuid": "8a07f130-b2f2-4dbb-ab9b-599c91e8727e",
+    "name": "Dungeon Mountain",
+    "birch": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "maple": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "pine": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.27058825,
+            0.34901962,
+            0.21568628,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.22745098,
+            0.39215687,
+            0.15686275,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "polar": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "spruce": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.36862746,
+            0.60784316,
+            0.28235295,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.51101655,
+            0.76216966,
+            0.3964554,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "willow": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "isDefault": false,
+    "isOverrideCustomColor": true,
+    "biomes": []
+  },
+  "225760dc-e731-4c71-bd61-562c815cd8a8": {
+    "uuid": "225760dc-e731-4c71-bd61-562c815cd8a8",
+    "name": "Default palette",
+    "birch": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            1.0,
+            0.533,
+            0.251,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.533,
+            0.251,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "maple": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.718,
+            0.361,
+            0.047,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.718,
+            0.361,
+            0.047,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "pine": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.894,
+            0.478,
+            0.118,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.894,
+            0.478,
+            0.118,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "polar": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            1.0,
+            0.467,
+            0.0,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.467,
+            0.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "spruce": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            1.0,
+            0.6,
+            0.259,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.6,
+            0.259,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "willow": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            1.0,
+            0.631,
+            0.302,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.631,
+            0.302,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "isDefault": false,
+    "isOverrideCustomColor": true,
+    "biomes": [
+      {
+        "id": 0,
+        "color": 10073478
+      },
+      {
+        "id": 1,
+        "color": 10336379
+      },
+      {
+        "id": 2,
+        "color": 12565116
+      },
+      {
+        "id": 3,
+        "color": 9417358
+      },
+      {
+        "id": 4,
+        "color": 9283213
+      },
+      {
+        "id": 5,
+        "color": 9614237
+      },
+      {
+        "id": 6,
+        "color": 9281147
+      },
+      {
+        "id": 7,
+        "color": 10073478
+      },
+      {
+        "id": 10,
+        "color": 8696472
+      },
+      {
+        "id": 11,
+        "color": 8696472
+      },
+      {
+        "id": 12,
+        "color": 8696472
+      },
+      {
+        "id": 13,
+        "color": 8696472
+      },
+      {
+        "id": 14,
+        "color": 9745295
+      },
+      {
+        "id": 15,
+        "color": 9745295
+      },
+      {
+        "id": 16,
+        "color": 9484381
+      },
+      {
+        "id": 18,
+        "color": 10073478
+      },
+      {
+        "id": 19,
+        "color": 8893077
+      },
+      {
+        "id": 21,
+        "color": 9152133
+      },
+      {
+        "id": 22,
+        "color": 9152133
+      },
+      {
+        "id": 23,
+        "color": 12093057
+      },
+      {
+        "id": 24,
+        "color": 8817599
+      },
+      {
+        "id": 25,
+        "color": 15461355
+      },
+      {
+        "id": 26,
+        "color": 5394251
+      },
+      {
+        "id": 27,
+        "color": 13411973
+      },
+      {
+        "id": 28,
+        "color": 11848847
+      },
+      {
+        "id": 29,
+        "color": 10260126
+      },
+      {
+        "id": 30,
+        "color": 9680988
+      },
+      {
+        "id": 31,
+        "color": 10379095
+      },
+      {
+        "id": 32,
+        "color": 15059315
+      },
+      {
+        "id": 33,
+        "color": 10201989
+      },
+      {
+        "id": 34,
+        "color": 11915153
+      },
+      {
+        "id": 35,
+        "color": 9404516
+      },
+      {
+        "id": 36,
+        "color": 10053964
+      },
+      {
+        "id": 37,
+        "color": 15461355
+      },
+      {
+        "id": 38,
+        "color": 10854020
+      },
+      {
+        "id": 39,
+        "color": 14202237
+      },
+      {
+        "id": 40,
+        "color": 11390138
+      },
+      {
+        "id": 41,
+        "color": 12897446
+      },
+      {
+        "id": 42,
+        "color": 14083327
+      },
+      {
+        "id": 43,
+        "color": 15260617
+      },
+      {
+        "id": 44,
+        "color": 11122045
+      },
+      {
+        "id": 45,
+        "color": 13420171
+      },
+      {
+        "id": 46,
+        "color": 7109764
+      },
+      {
+        "id": 47,
+        "color": 11777975
+      },
+      {
+        "id": 48,
+        "color": 14983783
+      },
+      {
+        "id": 49,
+        "color": 15060366
+      },
+      {
+        "id": 50,
+        "color": 16766650
+      },
+      {
+        "id": 51,
+        "color": 6973802
+      },
+      {
+        "id": 52,
+        "color": 8618371
+      },
+      {
+        "id": 53,
+        "color": 10791588
+      }
+    ]
+  },
+  "0bfe508c-60a7-4c50-8320-f3f520ea47ac": {
+    "uuid": "0bfe508c-60a7-4c50-8320-f3f520ea47ac",
+    "name": "Gorge",
+    "birch": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.8706537,
+            0.7402623,
+            0.39476088,
+            1.0
+          ],
+          "pos": 0.08021749,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.7788595,
+            0.7584525,
+            0.35964024,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "maple": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.3122549,
+            0.35686275,
+            0.31461248,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.49228418,
+            0.511822,
+            0.4562975,
+            1.0
+          ],
+          "pos": 0.28337875,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.40496284,
+            0.5493741,
+            0.43067136,
+            1.0
+          ],
+          "pos": 0.49318802,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.27533218,
+            0.38664812,
+            0.31186983,
+            1.0
+          ],
+          "pos": 0.73297,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.387046,
+            0.3991655,
+            0.31922138,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "pine": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.2865165,
+            0.31154376,
+            0.16985418,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.4052485,
+            0.47009736,
+            0.2935657,
+            1.0
+          ],
+          "pos": 0.5563636,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.4942183,
+            0.55354655,
+            0.38494194,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "polar": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.2901961,
+            0.35686275,
+            0.2,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "spruce": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.34036648,
+            0.4200278,
+            0.3324003,
+            1.0
+          ],
+          "pos": 0.003636362,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.5348113,
+            0.5827538,
+            0.4490203,
+            1.0
+          ],
+          "pos": 0.2763636,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.93515295,
+            0.9921875,
+            0.765625,
+            1.0
+          ],
+          "pos": 0.5363636,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.53570557,
+            0.68706536,
+            0.53226066,
+            1.0
+          ],
+          "pos": 0.78909105,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.40542662,
+            0.47844225,
+            0.37064302,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "willow": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.2901961,
+            0.35686275,
+            0.2,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "isDefault": false,
+    "isOverrideCustomColor": true,
+    "biomes": [
+      {
+        "id": 2,
+        "color": -5258317
+      },
+      {
+        "id": 6,
+        "color": -5264736
+      },
+      {
+        "id": 33,
+        "color": -6116966
+      },
+      {
+        "id": 53,
+        "color": -5919062
+      }
+    ]
+  },
+  "8f65fb4b-566b-49d9-8c60-7b3fa1265a7c": {
+    "uuid": "8f65fb4b-566b-49d9-8c60-7b3fa1265a7c",
+    "name": "[OPS] Sea of Isolation",
+    "birch": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.48264897,
+            0.5827538,
+            0.2982662,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.8080667,
+            0.7353118,
+            0.3191807,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "maple": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.40811965,
+            0.50347704,
+            0.23248173,
+            0.29803923
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.3574409,
+            0.29529876,
+            0.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "pine": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.45337978,
+            0.557719,
+            0.18073507,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.63282335,
+            0.57665455,
+            0.3819824,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "polar": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.50508064,
+            0.58431375,
+            0.29803923,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.8456189,
+            0.5987694,
+            0.18582444,
+            1.0
+          ],
+          "pos": 0.8094261,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.566064,
+            0.49927765,
+            0.3747517,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "spruce": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.51941425,
+            0.58431375,
+            0.29803923,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.5243393,
+            0.45640236,
+            0.3427531,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "willow": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.50508064,
+            0.58431375,
+            0.29803923,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.34467262,
+            0.41568628,
+            0.18039216,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "isDefault": false,
+    "isOverrideCustomColor": true,
+    "biomes": [
+      {
+        "id": 0,
+        "color": 10073478
+      },
+      {
+        "id": 1,
+        "color": -7496827
+      },
+      {
+        "id": 2,
+        "color": -5198966
+      },
+      {
+        "id": 3,
+        "color": 9417358
+      },
+      {
+        "id": 4,
+        "color": 9283213
+      },
+      {
+        "id": 5,
+        "color": 9614237
+      },
+      {
+        "id": 6,
+        "color": -6971760
+      },
+      {
+        "id": 7,
+        "color": 10073478
+      },
+      {
+        "id": 10,
+        "color": 8696472
+      },
+      {
+        "id": 11,
+        "color": 8696472
+      },
+      {
+        "id": 12,
+        "color": 8696472
+      },
+      {
+        "id": 13,
+        "color": 8696472
+      },
+      {
+        "id": 14,
+        "color": 9745295
+      },
+      {
+        "id": 15,
+        "color": 9745295
+      },
+      {
+        "id": 16,
+        "color": 9484381
+      },
+      {
+        "id": 18,
+        "color": 10073478
+      },
+      {
+        "id": 19,
+        "color": 8893077
+      },
+      {
+        "id": 21,
+        "color": 9152133
+      },
+      {
+        "id": 22,
+        "color": 9152133
+      },
+      {
+        "id": 23,
+        "color": 12093057
+      },
+      {
+        "id": 24,
+        "color": 8817599
+      },
+      {
+        "id": 25,
+        "color": 15461355
+      },
+      {
+        "id": 26,
+        "color": 5394251
+      },
+      {
+        "id": 27,
+        "color": 13411973
+      },
+      {
+        "id": 28,
+        "color": -6312305
+      },
+      {
+        "id": 29,
+        "color": 10260126
+      },
+      {
+        "id": 30,
+        "color": 9680988
+      },
+      {
+        "id": 31,
+        "color": 10379095
+      },
+      {
+        "id": 32,
+        "color": 15059315
+      },
+      {
+        "id": 33,
+        "color": -7301501
+      },
+      {
+        "id": 34,
+        "color": 11915153
+      },
+      {
+        "id": 35,
+        "color": 9404516
+      },
+      {
+        "id": 36,
+        "color": 10053964
+      },
+      {
+        "id": 37,
+        "color": 15461355
+      },
+      {
+        "id": 38,
+        "color": 10854020
+      },
+      {
+        "id": 39,
+        "color": 14202237
+      },
+      {
+        "id": 40,
+        "color": 11390138
+      },
+      {
+        "id": 41,
+        "color": 12897446
+      },
+      {
+        "id": 42,
+        "color": 14083327
+      },
+      {
+        "id": 43,
+        "color": 15260617
+      },
+      {
+        "id": 44,
+        "color": -7305621
+      },
+      {
+        "id": 45,
+        "color": -1914206
+      },
+      {
+        "id": 46,
+        "color": 7109764
+      },
+      {
+        "id": 47,
+        "color": 11777975
+      },
+      {
+        "id": 48,
+        "color": 14983783
+      },
+      {
+        "id": 49,
+        "color": 15060366
+      },
+      {
+        "id": 50,
+        "color": 16766650
+      },
+      {
+        "id": 51,
+        "color": 6973802
+      },
+      {
+        "id": 52,
+        "color": 8618371
+      },
+      {
+        "id": 53,
+        "color": 10791588
+      }
+    ]
+  },
+  "ee052b5a-94c5-4799-81fe-12e31afa8ed9": {
+    "uuid": "ee052b5a-94c5-4799-81fe-12e31afa8ed9",
+    "name": "Autumn 2025",
+    "birch": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.8156863,
+            0.42745098,
+            0.19607843,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.63529414,
+            0.08627451,
+            1.0
+          ],
+          "pos": 0.09897613,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.6835538,
+            0.20723224,
+            1.0
+          ],
+          "pos": 0.37483367,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.36507785,
+            0.12378299,
+            1.0
+          ],
+          "pos": 0.68430036,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.5557623,
+            0.011126518,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "maple": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.617,
+            0.37071487,
+            0.0,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.8873435,
+            0.42207444,
+            0.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "pine": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.29963493,
+            0.35686275,
+            0.19948629,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.8456189,
+            0.5086637,
+            0.09555492,
+            1.0
+          ],
+          "pos": 0.14846416,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.29012293,
+            0.35686275,
+            0.20055687,
+            1.0
+          ],
+          "pos": 0.40106007,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.7538247,
+            0.32100594,
+            0.11218252,
+            1.0
+          ],
+          "pos": 0.67485744,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.8456189,
+            0.36123893,
+            0.0023520978,
+            1.0
+          ],
+          "pos": 0.9522185,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.84705883,
+            0.50980395,
+            0.09411765,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "polar": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            1.0,
+            0.54901963,
+            0.0,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.2826426,
+            0.18,
+            1.0
+          ],
+          "pos": 0.098122865,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.52321357,
+            0.13212794,
+            1.0
+          ],
+          "pos": 0.47925967,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.550765,
+            0.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "spruce": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.594,
+            0.49197719,
+            0.301752,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.4993873,
+            0.557719,
+            0.37924892,
+            1.0
+          ],
+          "pos": 0.23144868,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.82,
+            0.58729905,
+            0.30422,
+            1.0
+          ],
+          "pos": 0.30556914,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.53178585,
+            0.5827538,
+            0.3986036,
+            1.0
+          ],
+          "pos": 0.42026666,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.81960785,
+            0.65312934,
+            0.30588233,
+            1.0
+          ],
+          "pos": 0.6925793,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.5356365,
+            0.611961,
+            0.33619553,
+            1.0
+          ],
+          "pos": 0.90860975,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.409331,
+            0.465,
+            0.29799294,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "willow": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.67058825,
+            0.38039216,
+            0.16470589,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.9248957,
+            0.26885006,
+            0.26885006,
+            1.0
+          ],
+          "pos": 0.07423209,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.52978265,
+            0.21557719,
+            1.0
+          ],
+          "pos": 0.51022154,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.67037547,
+            0.3795649,
+            0.1640975,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "isDefault": false,
+    "isOverrideCustomColor": true,
+    "biomes": [
+      {
+        "id": 0,
+        "color": -4876410
+      },
+      {
+        "id": 1,
+        "color": -4349550
+      },
+      {
+        "id": 2,
+        "color": -2836070
+      },
+      {
+        "id": 3,
+        "color": -4735821
+      },
+      {
+        "id": 4,
+        "color": -6773864
+      },
+      {
+        "id": 5,
+        "color": -6445410
+      },
+      {
+        "id": 6,
+        "color": -4279396
+      },
+      {
+        "id": 7,
+        "color": -4544109
+      },
+      {
+        "id": 10,
+        "color": -4735821
+      },
+      {
+        "id": 11,
+        "color": -4735821
+      },
+      {
+        "id": 12,
+        "color": -4735821
+      },
+      {
+        "id": 13,
+        "color": -4735821
+      },
+      {
+        "id": 14,
+        "color": -4735821
+      },
+      {
+        "id": 15,
+        "color": -4735821
+      },
+      {
+        "id": 16,
+        "color": -5661575
+      },
+      {
+        "id": 18,
+        "color": 10073478
+      },
+      {
+        "id": 19,
+        "color": 8893077
+      },
+      {
+        "id": 21,
+        "color": -4735821
+      },
+      {
+        "id": 22,
+        "color": -4735821
+      },
+      {
+        "id": 23,
+        "color": 12093057
+      },
+      {
+        "id": 24,
+        "color": 8817599
+      },
+      {
+        "id": 25,
+        "color": 15461355
+      },
+      {
+        "id": 26,
+        "color": 5394251
+      },
+      {
+        "id": 27,
+        "color": 13411973
+      },
+      {
+        "id": 28,
+        "color": -5922919
+      },
+      {
+        "id": 29,
+        "color": 10260126
+      },
+      {
+        "id": 30,
+        "color": -5393499
+      },
+      {
+        "id": 31,
+        "color": 10379095
+      },
+      {
+        "id": 32,
+        "color": 15059315
+      },
+      {
+        "id": 33,
+        "color": -6248810
+      },
+      {
+        "id": 34,
+        "color": -3164015
+      },
+      {
+        "id": 35,
+        "color": 9404516
+      },
+      {
+        "id": 36,
+        "color": 10053964
+      },
+      {
+        "id": 37,
+        "color": 15461355
+      },
+      {
+        "id": 38,
+        "color": -4546418
+      },
+      {
+        "id": 39,
+        "color": 14202237
+      },
+      {
+        "id": 40,
+        "color": 11390138
+      },
+      {
+        "id": 41,
+        "color": -3358042
+      },
+      {
+        "id": 42,
+        "color": -2693889
+      },
+      {
+        "id": 43,
+        "color": 15260617
+      },
+      {
+        "id": 44,
+        "color": -5395553
+      },
+      {
+        "id": 45,
+        "color": -1914206
+      },
+      {
+        "id": 46,
+        "color": 7109764
+      },
+      {
+        "id": 47,
+        "color": 11777975
+      },
+      {
+        "id": 48,
+        "color": 14983783
+      },
+      {
+        "id": 49,
+        "color": 15060366
+      },
+      {
+        "id": 50,
+        "color": 16766650
+      },
+      {
+        "id": 51,
+        "color": 6973802
+      },
+      {
+        "id": 52,
+        "color": 8618371
+      },
+      {
+        "id": 53,
+        "color": 10791588
+      }
+    ]
+  },
+  "59cb497a-4dd2-4a3d-9ff9-5c5b5059a9b8": {
+    "uuid": "59cb497a-4dd2-4a3d-9ff9-5c5b5059a9b8",
+    "name": "Everautumn",
+    "birch": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.8156863,
+            0.42745098,
+            0.19607843,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.63529414,
+            0.08627451,
+            1.0
+          ],
+          "pos": 0.09897613,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.6835538,
+            0.20723224,
+            1.0
+          ],
+          "pos": 0.37483367,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.36507785,
+            0.12378299,
+            1.0
+          ],
+          "pos": 0.68430036,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.5557623,
+            0.011126518,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "maple": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.617,
+            0.37071487,
+            0.0,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.8873435,
+            0.42207444,
+            0.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "pine": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.78720444,
+            0.11824487,
+            0.0,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.7538247,
+            0.32100594,
+            0.11218252,
+            1.0
+          ],
+          "pos": 0.67485744,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.8456189,
+            0.36123893,
+            0.0023520978,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "polar": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            1.0,
+            0.54901963,
+            0.0,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.2826426,
+            0.18,
+            1.0
+          ],
+          "pos": 0.098122865,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.52321357,
+            0.13212794,
+            1.0
+          ],
+          "pos": 0.47925967,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.550765,
+            0.0,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "spruce": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.8956885,
+            0.226725,
+            0.226725,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.52156866,
+            0.13333334,
+            1.0
+          ],
+          "pos": 0.09010592,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.52156866,
+            0.13333334,
+            1.0
+          ],
+          "pos": 0.9404118,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.71210015,
+            0.120829195,
+            0.120829195,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "willow": {
+      "isLocked": false,
+      "marks": [
+        {
+          "color": [
+            0.67058825,
+            0.38039216,
+            0.16470589,
+            1.0
+          ],
+          "pos": 0.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.9248957,
+            0.26885006,
+            0.26885006,
+            1.0
+          ],
+          "pos": 0.07423209,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            1.0,
+            0.52978265,
+            0.21557719,
+            1.0
+          ],
+          "pos": 0.51022154,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        },
+        {
+          "color": [
+            0.67037547,
+            0.3795649,
+            0.1640975,
+            1.0
+          ],
+          "pos": 1.0,
+          "isKelvins": false,
+          "kelvins": 1000.0
+        }
+      ]
+    },
+    "isDefault": false,
+    "isOverrideCustomColor": true,
+    "biomes": [
+      {
+        "id": 0,
+        "color": -4876410
+      },
+      {
+        "id": 1,
+        "color": -4349550
+      },
+      {
+        "id": 2,
+        "color": -2836070
+      },
+      {
+        "id": 3,
+        "color": -4735821
+      },
+      {
+        "id": 4,
+        "color": -6773864
+      },
+      {
+        "id": 5,
+        "color": -6445410
+      },
+      {
+        "id": 6,
+        "color": -4279396
+      },
+      {
+        "id": 7,
+        "color": -4544109
+      },
+      {
+        "id": 10,
+        "color": -4735821
+      },
+      {
+        "id": 11,
+        "color": -4735821
+      },
+      {
+        "id": 12,
+        "color": -4735821
+      },
+      {
+        "id": 13,
+        "color": -4735821
+      },
+      {
+        "id": 14,
+        "color": -4735821
+      },
+      {
+        "id": 15,
+        "color": -4735821
+      },
+      {
+        "id": 16,
+        "color": -5661575
+      },
+      {
+        "id": 18,
+        "color": 10073478
+      },
+      {
+        "id": 19,
+        "color": 8893077
+      },
+      {
+        "id": 21,
+        "color": -4735821
+      },
+      {
+        "id": 22,
+        "color": -4735821
+      },
+      {
+        "id": 23,
+        "color": 12093057
+      },
+      {
+        "id": 24,
+        "color": 8817599
+      },
+      {
+        "id": 25,
+        "color": 15461355
+      },
+      {
+        "id": 26,
+        "color": 5394251
+      },
+      {
+        "id": 27,
+        "color": -3105445
+      },
+      {
+        "id": 28,
+        "color": -5922919
+      },
+      {
+        "id": 29,
+        "color": 10260126
+      },
+      {
+        "id": 30,
+        "color": -5393499
+      },
+      {
+        "id": 31,
+        "color": 10379095
+      },
+      {
+        "id": 32,
+        "color": 15059315
+      },
+      {
+        "id": 33,
+        "color": -6248810
+      },
+      {
+        "id": 34,
+        "color": -3164015
+      },
+      {
+        "id": 35,
+        "color": 9404516
+      },
+      {
+        "id": 36,
+        "color": 10053964
+      },
+      {
+        "id": 37,
+        "color": 15461355
+      },
+      {
+        "id": 38,
+        "color": -4546418
+      },
+      {
+        "id": 39,
+        "color": 14202237
+      },
+      {
+        "id": 40,
+        "color": 11390138
+      },
+      {
+        "id": 41,
+        "color": -3358042
+      },
+      {
+        "id": 42,
+        "color": -2693889
+      },
+      {
+        "id": 43,
+        "color": 15260617
+      },
+      {
+        "id": 44,
+        "color": -5395553
+      },
+      {
+        "id": 45,
+        "color": -1914206
+      },
+      {
+        "id": 46,
+        "color": 7109764
+      },
+      {
+        "id": 47,
+        "color": 11777975
+      },
+      {
+        "id": 48,
+        "color": 14983783
+      },
+      {
+        "id": 49,
+        "color": 15060366
+      },
+      {
+        "id": 50,
+        "color": 16766650
+      },
+      {
+        "id": 51,
+        "color": 6973802
+      },
+      {
+        "id": 52,
+        "color": 8618371
+      },
+      {
+        "id": 53,
+        "color": 10791588
+      }
+    ]
+  }
+}

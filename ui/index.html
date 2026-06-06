@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Map Cache MDAT</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <div id="app">
+    <aside id="side">
+      <header>
+        <h1>Map Cache MDAT</h1>
+        <div id="status" class="muted">idle</div>
+      </header>
+
+      <section>
+        <h2>Game</h2>
+        <form id="config-form">
+          <input name="game_dir" placeholder="D:\stalcraft" autocomplete="off" />
+          <input name="blender" placeholder="blender.exe (optional)" autocomplete="off" />
+          <select name="olmap"><option value="">map overlay</option></select>
+          <div class="row">
+            <button type="submit">Set</button>
+            <button type="button" id="scan-btn">Scan</button>
+          </div>
+        </form>
+        <div id="paths" class="meta"></div>
+      </section>
+
+      <section>
+        <h2>Worlds</h2>
+        <div class="row">
+          <button type="button" id="include-all-worlds">Include all</button>
+          <button type="button" id="exclude-all-worlds">Exclude all</button>
+        </div>
+        <ul id="worlds"></ul>
+      </section>
+
+      <section>
+        <h2>Selection</h2>
+        <div id="scan-stats" class="stat">no scan yet</div>
+        <div id="selection-stats" class="stat">0 selected</div>
+        <div class="row">
+          <button type="button" id="select-all">All</button>
+          <button type="button" id="clear-selection">Clear</button>
+          <button type="button" id="select-view">Visible</button>
+        </div>
+      </section>
+
+      <section>
+        <h2>Export</h2>
+        <form id="export-form">
+          <input name="name" placeholder="blend name" autocomplete="off" />
+          <button id="export-btn" type="submit">Export .blend</button>
+        </form>
+      </section>
+
+      <section>
+        <h2>Jobs</h2>
+        <ul id="jobs"></ul>
+      </section>
+    </aside>
+
+    <main id="stage">
+      <canvas id="map"></canvas>
+      <div id="hud">
+        <div id="hud-main">no chunks</div>
+        <div class="muted">wheel zoom, middle/right drag pan, drag select, alt drag deselect</div>
+      </div>
+    </main>
+  </div>
+  <script src="/static/app.js" type="module"></script>
+</body>
+</html>

@@ -1,0 +1,98 @@
+:root {
+  color-scheme: dark;
+  --bg: #090c0f;
+  --panel: #111820;
+  --line: #2b3844;
+  --text: #e2ecf1;
+  --muted: #8ea0aa;
+  --accent: #41d9a7;
+  --accent2: #5da9ff;
+  --warn: #f1b657;
+  --bad: #ff6d6d;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 13px/1.4 system-ui, "Segoe UI", sans-serif;
+  overflow: hidden;
+}
+
+#app {
+  display: grid;
+  grid-template-columns: 340px minmax(0, 1fr);
+  height: 100vh;
+}
+
+#side {
+  background: var(--panel);
+  border-right: 1px solid var(--line);
+  padding: 12px;
+  overflow: auto;
+}
+
+h1 { margin: 0 0 3px; font-size: 18px; font-weight: 650; }
+section { border-top: 1px solid var(--line); margin-top: 14px; padding-top: 10px; }
+h2 { margin: 0 0 8px; color: var(--muted); font-size: 12px; text-transform: uppercase; }
+
+form { display: flex; flex-direction: column; gap: 7px; }
+.row { display: flex; gap: 7px; align-items: center; flex-wrap: wrap; }
+.muted, .meta, .stat { color: var(--muted); font-size: 12px; }
+.meta { white-space: pre-wrap; overflow-wrap: anywhere; margin-top: 8px; }
+.stat { margin-bottom: 7px; }
+
+input, select, button {
+  background: #0c1218;
+  color: var(--text);
+  border: 1px solid var(--line);
+  padding: 6px 8px;
+  font: inherit;
+}
+input:not([type="checkbox"]) { width: 100%; }
+input[type="checkbox"] { width: auto; }
+button { cursor: pointer; background: #1b2833; }
+button:hover { border-color: var(--accent2); }
+button:disabled { opacity: .55; cursor: not-allowed; }
+
+ul { list-style: none; margin: 0; padding: 0; }
+li {
+  border: 1px solid var(--line);
+  padding: 7px 8px;
+  margin-bottom: 6px;
+  background: #0c1218;
+}
+.world-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 8px;
+  align-items: center;
+}
+.world-row label {
+  display: flex;
+  min-width: 0;
+  gap: 7px;
+  align-items: center;
+}
+.world-row label span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.world-row .meta { white-space: nowrap; }
+.ok { color: var(--accent); }
+.bad { color: var(--bad); }
+.warn { color: var(--warn); }
+
+#stage { position: relative; min-width: 0; overflow: hidden; background: #050708; }
+#map { display: block; width: 100%; height: 100%; cursor: crosshair; }
+#hud {
+  position: absolute;
+  left: 12px;
+  top: 12px;
+  border: 1px solid var(--line);
+  background: rgba(12, 18, 24, .92);
+  padding: 8px 10px;
+  min-width: 260px;
+}

@@ -1,0 +1,2396 @@
+{
+  "3500": {
+    "block_id": 3500,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3500,
+      "icon": "blok1",
+      "collide": true,
+      "opaque": true,
+      "rotatable": true,
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 1,
+      "max_y": 1,
+      "max_z": 1
+    }
+  },
+  "3501": {
+    "block_id": 3501,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3501,
+      "icon": "blok2"
+    }
+  },
+  "3502": {
+    "block_id": 3502,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3502,
+      "icon": "blok3"
+    }
+  },
+  "3503": {
+    "block_id": 3503,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3503,
+      "icon": "blok4"
+    }
+  },
+  "3504": {
+    "block_id": 3504,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3504,
+      "icon": "pripblok1"
+    }
+  },
+  "3505": {
+    "block_id": 3505,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3505,
+      "icon": "pripblok2"
+    }
+  },
+  "3506": {
+    "block_id": 3506,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3506,
+      "icon": "pripblok3"
+    }
+  },
+  "3507": {
+    "block_id": 3507,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3507,
+      "icon": "pripblok4"
+    }
+  },
+  "3508": {
+    "block_id": 3508,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3508,
+      "icon": "paint_3508"
+    }
+  },
+  "3509": {
+    "block_id": 3509,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3509,
+      "icon": "paint_3509"
+    }
+  },
+  "3510": {
+    "block_id": 3510,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3510,
+      "icon": "asfa"
+    }
+  },
+  "3511": {
+    "block_id": 3511,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3511,
+      "icon": "ston"
+    }
+  },
+  "3512": {
+    "block_id": 3512,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3512,
+      "icon": "ston_plitka"
+    }
+  },
+  "3513": {
+    "block_id": 3513,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3513,
+      "icon": "tucco"
+    }
+  },
+  "3514": {
+    "block_id": 3514,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3514,
+      "icon": "black"
+    }
+  },
+  "3515": {
+    "block_id": 3515,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3515,
+      "icon": "target"
+    }
+  },
+  "3516": {
+    "block_id": 3516,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3516,
+      "icon": "mkirpich"
+    }
+  },
+  "3517": {
+    "block_id": 3517,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3517,
+      "icon": "mgril"
+    }
+  },
+  "3518": {
+    "block_id": 3518,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3518,
+      "icon": "mreshproz"
+    }
+  },
+  "3519": {
+    "block_id": 3519,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3519,
+      "icon": "mresh"
+    }
+  },
+  "3520": {
+    "block_id": 3520,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3520,
+      "icon": "mjele"
+    }
+  },
+  "3521": {
+    "block_id": 3521,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3521,
+      "icon": "mplastina"
+    }
+  },
+  "3522": {
+    "block_id": 3522,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3522,
+      "icon": "mrabizaderevo"
+    }
+  },
+  "3523": {
+    "block_id": 3523,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3523,
+      "icon": "mrabiza"
+    }
+  },
+  "3524": {
+    "block_id": 3524,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3524,
+      "icon": "mfon"
+    }
+  },
+  "3525": {
+    "block_id": 3525,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3525,
+      "icon": "mjelekrov"
+    }
+  },
+  "3526": {
+    "block_id": 3526,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3526,
+      "icon": "green"
+    }
+  },
+  "3527": {
+    "block_id": 3527,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3527,
+      "icon": "asfctm"
+    }
+  },
+  "3528": {
+    "block_id": 3528,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3528,
+      "icon": "stena_chaes"
+    }
+  },
+  "3529": {
+    "block_id": 3529,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3529,
+      "icon": "asfctm"
+    }
+  },
+  "3530": {
+    "block_id": 3530,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3530,
+      "icon": "Zamok_1"
+    }
+  },
+  "3531": {
+    "block_id": 3531,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3531,
+      "icon": "Zamok_2"
+    }
+  },
+  "3532": {
+    "block_id": 3532,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3532,
+      "icon": "Zamok_3"
+    }
+  },
+  "3533": {
+    "block_id": 3533,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3533,
+      "icon": "Zamok_4"
+    }
+  },
+  "3534": {
+    "block_id": 3534,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3534,
+      "icon": "Zamok_5"
+    }
+  },
+  "3535": {
+    "block_id": 3535,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3535,
+      "icon": "Zamok_6"
+    }
+  },
+  "3536": {
+    "block_id": 3536,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3536,
+      "icon": "Zamok_7"
+    }
+  },
+  "3537": {
+    "block_id": 3537,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3537,
+      "icon": "Zamok_8"
+    }
+  },
+  "3538": {
+    "block_id": 3538,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3538,
+      "icon": "Zamok_9"
+    }
+  },
+  "3539": {
+    "block_id": 3539,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3539,
+      "icon": "Zamok_10"
+    }
+  },
+  "3540": {
+    "block_id": 3540,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3540,
+      "icon": "Zamok_11"
+    }
+  },
+  "3541": {
+    "block_id": 3541,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3541,
+      "icon": "Zamok_12"
+    }
+  },
+  "3542": {
+    "block_id": 3542,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3542,
+      "icon": "Zamok_13"
+    }
+  },
+  "3543": {
+    "block_id": 3543,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3543,
+      "icon": "Zamok_14"
+    }
+  },
+  "3544": {
+    "block_id": 3544,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3544,
+      "icon": "Zamok_15"
+    }
+  },
+  "3545": {
+    "block_id": 3545,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3545,
+      "icon": "Zamok_16"
+    }
+  },
+  "3546": {
+    "block_id": 3546,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3546,
+      "icon": "Zamok_17"
+    }
+  },
+  "3547": {
+    "block_id": 3547,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3547,
+      "icon": "Zamok_18"
+    }
+  },
+  "3548": {
+    "block_id": 3548,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3548,
+      "icon": "quartz_block_goriz"
+    }
+  },
+  "3549": {
+    "block_id": 3549,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3549,
+      "icon": "quartz_block_vertik"
+    }
+  },
+  "3550": {
+    "block_id": 3550,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3550,
+      "icon": "quartz_block_krest"
+    }
+  },
+  "3551": {
+    "block_id": 3551,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3551,
+      "icon": "concrete3551"
+    }
+  },
+  "3552": {
+    "block_id": 3552,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3552,
+      "icon": "Met256"
+    }
+  },
+  "3553": {
+    "block_id": 3553,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3553,
+      "icon": "gofra"
+    }
+  },
+  "3554": {
+    "block_id": 3554,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3554,
+      "icon": "crate"
+    }
+  },
+  "3555": {
+    "block_id": 3555,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3555,
+      "icon": "brick2"
+    }
+  },
+  "3556": {
+    "block_id": 3556,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3556,
+      "icon": "brick3"
+    }
+  },
+  "3557": {
+    "block_id": 3557,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3557,
+      "icon": "brick4"
+    }
+  },
+  "3558": {
+    "block_id": 3558,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3558,
+      "icon": "skala"
+    }
+  },
+  "3559": {
+    "block_id": 3559,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3559,
+      "icon": "birch2",
+      "rotatable": true
+    }
+  },
+  "3560": {
+    "block_id": 3560,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3560,
+      "icon": "pobel",
+      "rotatable": true
+    }
+  },
+  "3561": {
+    "block_id": 3561,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3561,
+      "icon": "metalpaitn",
+      "rotatable": true
+    }
+  },
+  "3562": {
+    "block_id": 3562,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3562,
+      "icon": "concrete1",
+      "rotatable": true
+    }
+  },
+  "3563": {
+    "block_id": 3563,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3563,
+      "icon": "concrete2",
+      "rotatable": true
+    }
+  },
+  "3564": {
+    "block_id": 3564,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3564,
+      "icon": "concrete3",
+      "rotatable": true
+    }
+  },
+  "3565": {
+    "block_id": 3565,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3565,
+      "icon": "concrete4",
+      "rotatable": true
+    }
+  },
+  "3566": {
+    "block_id": 3566,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3566,
+      "icon": "concrete5",
+      "rotatable": true
+    }
+  },
+  "3567": {
+    "block_id": 3567,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3567,
+      "icon": "concrete6",
+      "rotatable": true
+    }
+  },
+  "3568": {
+    "block_id": 3568,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3568,
+      "icon": "concrete7",
+      "rotatable": true
+    }
+  },
+  "3569": {
+    "block_id": 3569,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3569,
+      "icon": "metal",
+      "rotatable": true
+    }
+  },
+  "3570": {
+    "block_id": 3570,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3570,
+      "icon": "wood_burned1",
+      "rotatable": true
+    }
+  },
+  "3571": {
+    "block_id": 3571,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3571,
+      "icon": "tiles_dots_blue",
+      "rotatable": true
+    }
+  },
+  "3572": {
+    "block_id": 3572,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3572,
+      "icon": "brevna",
+      "rotatable": true
+    }
+  },
+  "3573": {
+    "block_id": 3573,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3573,
+      "icon": "wood_mossy1",
+      "rotatable": true
+    }
+  },
+  "3574": {
+    "block_id": 3574,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3574,
+      "icon": "wood_mossy2",
+      "rotatable": true
+    }
+  },
+  "3575": {
+    "block_id": 3575,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3575,
+      "icon": "plaster_blue",
+      "rotatable": true
+    }
+  },
+  "3576": {
+    "block_id": 3576,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3576,
+      "icon": "plaster_green",
+      "rotatable": true
+    }
+  },
+  "3577": {
+    "block_id": 3577,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3577,
+      "icon": "brick_mossy",
+      "rotatable": true
+    }
+  },
+  "3578": {
+    "block_id": 3578,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3578,
+      "icon": "brick_gray",
+      "rotatable": true
+    }
+  },
+  "3579": {
+    "block_id": 3579,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3579,
+      "icon": "wood_sprouts",
+      "rotatable": true
+    }
+  },
+  "3580": {
+    "block_id": 3580,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3580,
+      "icon": "logs",
+      "rotatable": true
+    }
+  },
+  "3581": {
+    "block_id": 3581,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3581,
+      "icon": "tiles_dots_orange",
+      "rotatable": true
+    }
+  },
+  "3582": {
+    "block_id": 3582,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3582,
+      "icon": "tiles_mosaic_blue",
+      "rotatable": true
+    }
+  },
+  "3583": {
+    "block_id": 3583,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3583,
+      "icon": "container_side_yellow",
+      "rotatable": true
+    }
+  },
+  "3584": {
+    "block_id": 3584,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3584,
+      "icon": "container_side_red",
+      "rotatable": true
+    }
+  },
+  "3585": {
+    "block_id": 3585,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3585,
+      "icon": "container_face_green",
+      "rotatable": true
+    }
+  },
+  "3586": {
+    "block_id": 3586,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3586,
+      "icon": "container_side_green",
+      "rotatable": true
+    }
+  },
+  "3587": {
+    "block_id": 3587,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3587,
+      "icon": "50_4",
+      "rotatable": true
+    }
+  },
+  "3588": {
+    "block_id": 3588,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3588,
+      "icon": "51_4",
+      "rotatable": true
+    }
+  },
+  "3589": {
+    "block_id": 3589,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3589,
+      "icon": "52_4",
+      "rotatable": true
+    }
+  },
+  "3590": {
+    "block_id": 3590,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3590,
+      "icon": "53_4",
+      "rotatable": true
+    }
+  },
+  "3591": {
+    "block_id": 3591,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3591,
+      "icon": "3546_4",
+      "rotatable": true
+    }
+  },
+  "3592": {
+    "block_id": 3592,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3592,
+      "icon": "3573_4",
+      "rotatable": true
+    }
+  },
+  "3593": {
+    "block_id": 3593,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3593,
+      "icon": "3574_4",
+      "rotatable": true
+    }
+  },
+  "3594": {
+    "block_id": 3594,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3594,
+      "icon": "brick5"
+    }
+  },
+  "3595": {
+    "block_id": 3595,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3595,
+      "icon": "tiles_rhomb"
+    }
+  },
+  "3596": {
+    "block_id": 3596,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3596,
+      "icon": "floor_poured"
+    }
+  },
+  "3597": {
+    "block_id": 3597,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3597,
+      "icon": "tiles_concrete"
+    }
+  },
+  "3598": {
+    "block_id": 3598,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3598,
+      "icon": "wood_red"
+    }
+  },
+  "3599": {
+    "block_id": 3599,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3599,
+      "icon": "concrete_new"
+    }
+  },
+  "3600": {
+    "block_id": 3600,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3600,
+      "icon": "concrete_old"
+    }
+  },
+  "3601": {
+    "block_id": 3601,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3601,
+      "icon": "aerated_concrete"
+    }
+  },
+  "3602": {
+    "block_id": 3602,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3602,
+      "icon": "aerated_concrete_old"
+    }
+  },
+  "3603": {
+    "block_id": 3603,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3603,
+      "icon": "plaster_blue_desaturated"
+    }
+  },
+  "3604": {
+    "block_id": 3604,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3604,
+      "icon": "plaster_green_desaturated"
+    }
+  },
+  "3605": {
+    "block_id": 3605,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3605,
+      "icon": "concrete_crumb"
+    }
+  },
+  "3606": {
+    "block_id": 3606,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3606,
+      "icon": "brick_gray_old"
+    }
+  },
+  "3607": {
+    "block_id": 3607,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3607,
+      "icon": "brick_gray_unique"
+    }
+  },
+  "3608": {
+    "block_id": 3608,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3608,
+      "icon": "beige_paint"
+    }
+  },
+  "3609": {
+    "block_id": 3609,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3609,
+      "icon": "concrete_plates"
+    }
+  },
+  "3610": {
+    "block_id": 3610,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3610,
+      "icon": "metal_plates"
+    }
+  },
+  "3611": {
+    "block_id": 3611,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3611,
+      "icon": "asphalt1"
+    }
+  },
+  "3612": {
+    "block_id": 3612,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3612,
+      "icon": "asphalt2"
+    }
+  },
+  "3613": {
+    "block_id": 3613,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3613,
+      "icon": "mud_leaves"
+    }
+  },
+  "3614": {
+    "block_id": 3614,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3614,
+      "icon": "brick_gray_mossy"
+    }
+  },
+  "3615": {
+    "block_id": 3615,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3615,
+      "icon": "concrete_plates_3615"
+    }
+  },
+  "3616": {
+    "block_id": 3616,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3616,
+      "icon": "metal_plates_perforated"
+    }
+  },
+  "3617": {
+    "block_id": 3617,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3617,
+      "icon": "plywood"
+    }
+  },
+  "3618": {
+    "block_id": 3618,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3618,
+      "icon": "tiles_mortar"
+    }
+  },
+  "3619": {
+    "block_id": 3619,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3619,
+      "icon": "tiles_mortar_dots"
+    }
+  },
+  "3620": {
+    "block_id": 3620,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3620,
+      "icon": "sand_river"
+    }
+  },
+  "3621": {
+    "block_id": 3621,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3621,
+      "icon": "paint_yellow_brick"
+    }
+  },
+  "3622": {
+    "block_id": 3622,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3622,
+      "icon": "paint_terracotta"
+    }
+  },
+  "3623": {
+    "block_id": 3623,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3623,
+      "icon": "tiles_3623"
+    }
+  },
+  "3624": {
+    "block_id": 3624,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3624,
+      "icon": "concrete_3624"
+    }
+  },
+  "3625": {
+    "block_id": 3625,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3625,
+      "icon": "concrete_3625"
+    }
+  },
+  "3626": {
+    "block_id": 3626,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3626,
+      "icon": "concrete_3626"
+    }
+  },
+  "3627": {
+    "block_id": 3627,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3627,
+      "icon": "office_ceiling"
+    }
+  },
+  "3630": {
+    "block_id": 3630,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3630,
+      "icon": "metal_3630"
+    }
+  },
+  "3631": {
+    "block_id": 3631,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3631,
+      "icon": "metal_3631"
+    }
+  },
+  "3632": {
+    "block_id": 3632,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3632,
+      "icon": "metal_3632"
+    }
+  },
+  "3633": {
+    "block_id": 3633,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3633,
+      "icon": "metal_3633"
+    }
+  },
+  "3634": {
+    "block_id": 3634,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3634,
+      "icon": "metal_3634"
+    }
+  },
+  "3635": {
+    "block_id": 3635,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3635,
+      "icon": "metal_3635"
+    }
+  },
+  "3636": {
+    "block_id": 3636,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3636,
+      "icon": "concrete_3636"
+    }
+  },
+  "3637": {
+    "block_id": 3637,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3637,
+      "icon": "ruberoid_3637"
+    }
+  },
+  "3638": {
+    "block_id": 3638,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3638,
+      "icon": "rock_3638"
+    }
+  },
+  "3639": {
+    "block_id": 3639,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3639,
+      "icon": "rock_3639"
+    }
+  },
+  "3640": {
+    "block_id": 3640,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3640,
+      "icon": "rock_3640"
+    }
+  },
+  "3641": {
+    "block_id": 3641,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3641,
+      "icon": "tiles_14_2"
+    }
+  },
+  "3642": {
+    "block_id": 3642,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3642,
+      "icon": "tiles_14_3"
+    }
+  },
+  "3643": {
+    "block_id": 3643,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3643,
+      "icon": "concrete_3643"
+    }
+  },
+  "3644": {
+    "block_id": 3644,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3644,
+      "icon": "pobel_3644"
+    }
+  },
+  "3645": {
+    "block_id": 3645,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3645,
+      "icon": "brick_3645"
+    }
+  },
+  "3646": {
+    "block_id": 3646,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3646,
+      "icon": "brick_3646"
+    }
+  },
+  "3647": {
+    "block_id": 3647,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3647,
+      "icon": "brick_3647"
+    }
+  },
+  "3648": {
+    "block_id": 3648,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3648,
+      "icon": "rock_3648"
+    }
+  },
+  "3650": {
+    "block_id": 3650,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3650,
+      "icon": "metal_3650"
+    }
+  },
+  "3651": {
+    "block_id": 3651,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3651,
+      "icon": "metal_3651"
+    }
+  },
+  "3652": {
+    "block_id": 3652,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3652,
+      "icon": "concrete_3652"
+    }
+  },
+  "3653": {
+    "block_id": 3653,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3653,
+      "icon": "concrete_3653_trim"
+    }
+  },
+  "3654": {
+    "block_id": 3654,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3654,
+      "icon": "industrial_window",
+      "transparent": true,
+      "opaque": false
+    }
+  },
+  "3655": {
+    "block_id": 3655,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3655,
+      "icon": "brick_3655"
+    }
+  },
+  "3656": {
+    "block_id": 3656,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3656,
+      "icon": "wallpaper_3656"
+    }
+  },
+  "3657": {
+    "block_id": 3657,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3657,
+      "icon": "wallpaper_3657"
+    }
+  },
+  "3658": {
+    "block_id": 3658,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3658,
+      "icon": "wallpaper_3658"
+    }
+  },
+  "3659": {
+    "block_id": 3659,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3659,
+      "icon": "wallpaper_3659"
+    }
+  },
+  "3660": {
+    "block_id": 3660,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3660,
+      "icon": "concrete_plates_3660"
+    }
+  },
+  "3661": {
+    "block_id": 3661,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3661,
+      "icon": "concrete_plates_3661"
+    }
+  },
+  "3662": {
+    "block_id": 3662,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3662,
+      "icon": "construction_debris_3662"
+    }
+  },
+  "3663": {
+    "block_id": 3663,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3663,
+      "icon": "wood_trim_3663"
+    }
+  },
+  "3664": {
+    "block_id": 3664,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3664,
+      "icon": "granite_plates_3664"
+    }
+  },
+  "3665": {
+    "block_id": 3665,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3665,
+      "icon": "floor_poured_3665"
+    }
+  },
+  "3840": {
+    "block_id": 3840,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3840,
+      "icon": "Rogoz_Base",
+      "model": "customitems:models/blocks/grass/rogoz_b_water.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3839": {
+    "block_id": 3839,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3839,
+      "icon": "Rogoz_Base",
+      "model": "customitems:models/blocks/grass/rogoz_b_water.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3838": {
+    "block_id": 3838,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3838,
+      "icon": "Rogoz_Base",
+      "model": "customitems:models/blocks/grass/rogoz_a_water.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3837": {
+    "block_id": 3837,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3837,
+      "icon": "Rogoz_Base",
+      "model": "customitems:models/blocks/grass/rogoz_a_water.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3836": {
+    "block_id": 3836,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3836,
+      "icon": "Kamish_Base",
+      "model": "customitems:models/blocks/grass/kamish_base_water.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3835": {
+    "block_id": 3835,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3835,
+      "icon": "Kamish_Base",
+      "model": "customitems:models/blocks/grass/kamish_base_water.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3834": {
+    "block_id": 3834,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3834,
+      "icon": "Rogoz_Base",
+      "model": "customitems:models/blocks/grass/rogoz_b_default.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3833": {
+    "block_id": 3833,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3833,
+      "icon": "Rogoz_Base",
+      "model": "customitems:models/blocks/grass/rogoz_b_default.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3832": {
+    "block_id": 3832,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3832,
+      "icon": "Rogoz_Base",
+      "model": "customitems:models/blocks/grass/rogoz_a_default.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3831": {
+    "block_id": 3831,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3831,
+      "icon": "Rogoz_Base",
+      "model": "customitems:models/blocks/grass/rogoz_a_default.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3830": {
+    "block_id": 3830,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3830,
+      "icon": "Kamish_Base",
+      "model": "customitems:models/blocks/grass/kamish_base_default.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3829": {
+    "block_id": 3829,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3829,
+      "icon": "Kamish_Base",
+      "model": "customitems:models/blocks/grass/kamish_base_default.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3828": {
+    "block_id": 3828,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3828,
+      "icon": "klopogon",
+      "model": "customitems:models/blocks/grass/klopogon_2.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3827": {
+    "block_id": 3827,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3827,
+      "icon": "klopogon",
+      "model": "customitems:models/blocks/grass/klopogon_1.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3826": {
+    "block_id": 3826,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3826,
+      "icon": "chistotel2",
+      "model": "customitems:models/blocks/grass/chistotel_3.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3825": {
+    "block_id": 3825,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3825,
+      "icon": "chistotel",
+      "model": "customitems:models/blocks/grass/chistotel_2.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3824": {
+    "block_id": 3824,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3824,
+      "icon": "chistotel",
+      "model": "customitems:models/blocks/grass/chistotel_1.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3822": {
+    "block_id": 3822,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3822,
+      "icon": "liana2",
+      "model": "customitems:models/blocks/grass/liana2.mcsa",
+      "opaque": false,
+      "rotatable": true,
+      "simple_render": true
+    }
+  },
+  "3823": {
+    "block_id": 3823,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3823,
+      "icon": "liana2",
+      "model": "customitems:models/blocks/grass/liana1.mcsa",
+      "opaque": false,
+      "rotatable": true,
+      "simple_render": true
+    }
+  },
+  "3821": {
+    "block_id": 3821,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3821,
+      "icon": "liana",
+      "model": "customitems:models/blocks/grass/liana2.mcsa",
+      "opaque": false,
+      "rotatable": true,
+      "simple_render": true
+    }
+  },
+  "3820": {
+    "block_id": 3820,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3820,
+      "icon": "liana",
+      "model": "customitems:models/blocks/grass/liana1.mcsa",
+      "opaque": false,
+      "rotatable": true,
+      "simple_render": true
+    }
+  },
+  "3813": {
+    "block_id": 3813,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3813,
+      "icon": "osot",
+      "model": "customitems:models/blocks/grass/osot2.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3812": {
+    "block_id": 3812,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3812,
+      "icon": "osot",
+      "model": "customitems:models/blocks/grass/osot1.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3811": {
+    "block_id": 3811,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3811,
+      "icon": "krapiva3",
+      "model": "customitems:models/blocks/grass/krapiva.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3810": {
+    "block_id": 3810,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3810,
+      "icon": "krapiva2",
+      "model": "customitems:models/blocks/grass/krapiva4.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3809": {
+    "block_id": 3809,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3809,
+      "icon": "krapiva2",
+      "model": "customitems:models/blocks/grass/krapiva3.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3808": {
+    "block_id": 3808,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3808,
+      "icon": "papor1",
+      "model": "customitems:models/blocks/grass/papor2.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3807": {
+    "block_id": 3807,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3807,
+      "icon": "papor1",
+      "model": "customitems:models/blocks/grass/papor1.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3806": {
+    "block_id": 3806,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3806,
+      "icon": "papor1",
+      "model": "customitems:models/blocks/grass/papor4.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3805": {
+    "block_id": 3805,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3805,
+      "icon": "papor1",
+      "model": "customitems:models/blocks/grass/papor3.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3801": {
+    "block_id": 3801,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3801,
+      "icon": "lopuh",
+      "model": "customitems:models/blocks/grass/lopuh.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3800": {
+    "block_id": 3800,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3800,
+      "icon": "lopuh",
+      "model": "customitems:models/blocks/grass/lopuh.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3799": {
+    "block_id": 3799,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3799,
+      "icon": "krapiva",
+      "model": "customitems:models/blocks/grass/krapiva.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3798": {
+    "block_id": 3798,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3798,
+      "icon": "krapiva",
+      "model": "customitems:models/blocks/grass/krapiva.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3797": {
+    "block_id": 3797,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3797,
+      "icon": "tsikoriy",
+      "model": "customitems:models/blocks/grass/tsikoriy.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3796": {
+    "block_id": 3796,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3796,
+      "icon": "tsikoriy",
+      "model": "customitems:models/blocks/grass/tsikoriy.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3795": {
+    "block_id": 3795,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3795,
+      "icon": "pshenitsa",
+      "model": "customitems:models/blocks/grass/pshenitsa.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3794": {
+    "block_id": 3794,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3794,
+      "icon": "pshenitsa",
+      "model": "customitems:models/blocks/grass/pshenitsa2.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3870": {
+    "block_id": 3870,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3870,
+      "icon": "krapiva3",
+      "model": "customitems:models/blocks/grass/krapiva_r.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3871": {
+    "block_id": 3871,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3871,
+      "icon": "krapiva2",
+      "model": "customitems:models/blocks/grass/krapiva4_r.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3872": {
+    "block_id": 3872,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3872,
+      "icon": "krapiva2",
+      "model": "customitems:models/blocks/grass/krapiva3_r.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3873": {
+    "block_id": 3873,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3873,
+      "icon": "krapiva",
+      "model": "customitems:models/blocks/grass/krapiva_r.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3874": {
+    "block_id": 3874,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3874,
+      "icon": "fern",
+      "model": "customitems:models/blocks/grass/grass31_r.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3875": {
+    "block_id": 3875,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3875,
+      "icon": "tallgrass",
+      "model": "customitems:models/blocks/grass/grass31_r.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3700": {
+    "block_id": 3700,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3700,
+      "icon": "red_poppy",
+      "model": "customitems:models/blocks/grass/red_poppy_a.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3701": {
+    "block_id": 3701,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3701,
+      "icon": "red_poppy",
+      "model": "customitems:models/blocks/grass/red_poppy_b.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3702": {
+    "block_id": 3702,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3702,
+      "icon": "chamomile",
+      "model": "customitems:models/blocks/grass/chamomile.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3705": {
+    "block_id": 3705,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3705,
+      "icon": "lylyturf",
+      "model": "customitems:models/blocks/grass/lylyturf.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3706": {
+    "block_id": 3706,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3706,
+      "icon": "n_violet",
+      "model": "customitems:models/blocks/grass/n_violet_a.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3707": {
+    "block_id": 3707,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3707,
+      "icon": "n_violet",
+      "model": "customitems:models/blocks/grass/n_violet_b.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3708": {
+    "block_id": 3708,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3708,
+      "icon": "n_violet",
+      "model": "customitems:models/blocks/grass/n_violet_c.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3709": {
+    "block_id": 3709,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3709,
+      "icon": "myticaria",
+      "model": "customitems:models/blocks/grass/myticaria_a.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3710": {
+    "block_id": 3710,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3710,
+      "icon": "myticaria",
+      "model": "customitems:models/blocks/grass/myticaria_b.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3711": {
+    "block_id": 3711,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3711,
+      "icon": "side_weeds",
+      "model": "customitems:models/blocks/grass/side_weeds_a.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3712": {
+    "block_id": 3712,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3712,
+      "icon": "side_weeds",
+      "model": "customitems:models/blocks/grass/side_weeds_b.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3713": {
+    "block_id": 3713,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3713,
+      "icon": "side_weeds",
+      "model": "customitems:models/blocks/grass/side_weeds_c.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3716": {
+    "block_id": 3716,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3716,
+      "icon": "kiddney_weed",
+      "model": "customitems:models/blocks/grass/kiddney_weed_a.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3717": {
+    "block_id": 3717,
+    "config_type": "block",
+    "config": {
+      "type": "block",
+      "item_id": 3717,
+      "icon": "kiddney_weed",
+      "model": "customitems:models/blocks/grass/kiddney_weed_b.mcsa",
+      "opaque": false,
+      "simple_render": true
+    }
+  },
+  "3108": {
+    "block_id": 3108,
+    "config_type": "contamination",
+    "config": {
+      "type": "contamination",
+      "item_id": 3108,
+      "icon": "radiation1"
+    }
+  },
+  "3109": {
+    "block_id": 3109,
+    "config_type": "contamination",
+    "config": {
+      "type": "contamination",
+      "item_id": 3109,
+      "icon": "radiation2"
+    }
+  },
+  "3110": {
+    "block_id": 3110,
+    "config_type": "contamination",
+    "config": {
+      "type": "contamination",
+      "item_id": 3110,
+      "icon": "radiation3"
+    }
+  },
+  "3120": {
+    "block_id": 3120,
+    "config_type": "contamination",
+    "config": {
+      "type": "contamination",
+      "item_id": 3120,
+      "icon": "radiation4"
+    }
+  },
+  "3111": {
+    "block_id": 3111,
+    "config_type": "contamination",
+    "config": {
+      "type": "contamination",
+      "item_id": 3111,
+      "icon": "thermal1"
+    }
+  },
+  "3112": {
+    "block_id": 3112,
+    "config_type": "contamination",
+    "config": {
+      "type": "contamination",
+      "item_id": 3112,
+      "icon": "thermal2"
+    }
+  },
+  "3113": {
+    "block_id": 3113,
+    "config_type": "contamination",
+    "config": {
+      "type": "contamination",
+      "item_id": 3113,
+      "icon": "thermal3"
+    }
+  },
+  "3114": {
+    "block_id": 3114,
+    "config_type": "contamination",
+    "config": {
+      "type": "contamination",
+      "item_id": 3114,
+      "icon": "biological1"
+    }
+  },
+  "3115": {
+    "block_id": 3115,
+    "config_type": "contamination",
+    "config": {
+      "type": "contamination",
+      "item_id": 3115,
+      "icon": "biological2"
+    }
+  },
+  "3116": {
+    "block_id": 3116,
+    "config_type": "contamination",
+    "config": {
+      "type": "contamination",
+      "item_id": 3116,
+      "icon": "biological3"
+    }
+  },
+  "3117": {
+    "block_id": 3117,
+    "config_type": "contamination",
+    "config": {
+      "type": "contamination",
+      "item_id": 3117,
+      "icon": "psycho1"
+    }
+  },
+  "3129": {
+    "block_id": 3129,
+    "config_type": "contamination",
+    "config": {
+      "type": "contamination",
+      "item_id": 3129,
+      "icon": "psycho2"
+    }
+  },
+  "3130": {
+    "block_id": 3130,
+    "config_type": "contamination",
+    "config": {
+      "type": "contamination",
+      "item_id": 3130,
+      "icon": "psycho3"
+    }
+  },
+  "4019": {
+    "block_id": 4019,
+    "config_type": "contamination_water",
+    "config": {
+      "type": "contamination_water",
+      "item_id": 4019
+    }
+  },
+  "4020": {
+    "block_id": 4020,
+    "config_type": "contamination_water",
+    "config": {
+      "type": "contamination_water",
+      "item_id": 4020
+    }
+  },
+  "4021": {
+    "block_id": 4021,
+    "config_type": "contamination_water",
+    "config": {
+      "type": "contamination_water",
+      "item_id": 4021
+    }
+  },
+  "4027": {
+    "block_id": 4027,
+    "config_type": "contamination_water",
+    "config": {
+      "type": "contamination_water",
+      "item_id": 4027
+    }
+  },
+  "4030": {
+    "block_id": 4030,
+    "config_type": "contamination_leaves",
+    "config": {
+      "type": "contamination_leaves",
+      "item_id": 4030
+    }
+  },
+  "4031": {
+    "block_id": 4031,
+    "config_type": "contamination_leaves",
+    "config": {
+      "type": "contamination_leaves",
+      "item_id": 4031
+    }
+  },
+  "4032": {
+    "block_id": 4032,
+    "config_type": "contamination_leaves",
+    "config": {
+      "type": "contamination_leaves",
+      "item_id": 4032
+    }
+  },
+  "4033": {
+    "block_id": 4033,
+    "config_type": "contamination_leaves",
+    "config": {
+      "type": "contamination_leaves",
+      "item_id": 4033
+    }
+  }
+}

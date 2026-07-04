@@ -51,6 +51,8 @@ DEFAULT_MAP_BLOCKS = DEFAULT_UNPACKED_DIR / "configs" / "assets" / "pda" / "map_
 DEFAULT_WEATHER_PALETTES = DEFAULT_UNPACKED_DIR / "configs" / "assets" / "effects" / "weather" / "palettes.json"
 DEFAULT_BLOCK_TEXARR = DEFAULT_GAME_DIR / "modassets" / "assets" / "stalcraft" / "textures" / "blockMap.texarr"
 DEFAULT_CTM_DIR = DEFAULT_GAME_DIR / "modassets" / "assets" / "stalcraft" / "ctmpatcher" / "ctm"
+TEXARR_TA_AES_KEY = bytes([11, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 0, 12, 13, 14, 15])
+TEXARR_TA_AES_IV = b"0123456789ABCDFE"
 
 
 @dataclass(frozen=True)
@@ -2118,13 +2120,55 @@ class FaceMaterialDescriptor:
     note: str = ""
 
 
+def decrypt_texarr_ta(data: bytes) -> bytes:
+    try:
+        from cryptography.hazmat.primitives import padding
+        from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
+    except ImportError as exc:  # pragma: no cover - environment dependent
+        raise RuntimeError(
+            "blockMap.texarr is missing and blockMap.ta fallback requires cryptography. "
+            "Install dependencies with: pip install -r requirements.txt"
+        ) from exc
+
+    decryptor = Cipher(
+        algorithms.AES(TEXARR_TA_AES_KEY),
+        modes.CBC(TEXARR_TA_AES_IV),
+    ).decryptor()
+    padded = decryptor.update(data) + decryptor.finalize()
+    unpadder = padding.PKCS7(128).unpadder()
+    return unpadder.update(padded) + unpadder.finalize()
+
+
+def ensure_texarr_available(path: Path) -> Path:
+    path = Path(path)
+    if path.suffix.lower() == ".ta":
+        ta_path = path
+        texarr_path = path.with_suffix(".texarr")
+    else:
+        texarr_path = path
+        ta_path = path.with_suffix(".ta")
+
+    if texarr_path.exists() and texarr_path.stat().st_size > 4:
+        return texarr_path
+    if not ta_path.exists():
+        return path
+
+    print(f"[texarr] {texarr_path} missing or empty; decrypting fallback {ta_path}")
+    plain = decrypt_texarr_ta(ta_path.read_bytes())
+    texarr_path.parent.mkdir(parents=True, exist_ok=True)
+    temp_path = texarr_path.with_name(f"{texarr_path.name}.tmp")
+    temp_path.write_bytes(plain)
+    temp_path.replace(texarr_path)
+    return texarr_path
+
+
 class TextureArrayIndex:
     """Lazy index/extractor for STALCRAFT blockMap.texarr DDS entries."""
 
     def __init__(self, path: Path) -> None:
-        self.path = path
+        self.path = ensure_texarr_available(path)
         self.entries: Dict[str, Tuple[int, int]] = {}
-        if path.exists():
+        if self.path.exists():
             self._build()
 
     def _build(self) -> None:

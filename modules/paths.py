@@ -58,6 +58,7 @@ def game_texture_paths(game_dir: Path) -> dict[str, Path]:
     assets = game_dir / "modassets" / "assets"
     return {
         "texarr": assets / "stalcraft" / "textures" / "blockMap.texarr",
+        "ta": assets / "stalcraft" / "textures" / "blockMap.ta",
         "ctm_dir": assets / "stalcraft" / "ctmpatcher" / "ctm",
         "map_blocks": LOCAL_MAP_BLOCKS,
         "weather_palettes": LOCAL_WEATHER_PALETTES,

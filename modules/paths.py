@@ -76,6 +76,7 @@ def find_blender(explicit: str | None = None) -> Path:
     if which:
         candidates.append(Path(which))
     candidates.extend([
+        Path(r"D:\SteamLibrary\steamapps\common\Blender\blender.exe"),
         Path(r"C:\Program Files\Blender Foundation\Blender 4.3\blender.exe"),
         Path(r"C:\Program Files\Blender Foundation\Blender 4.2\blender.exe"),
         Path(r"C:\Program Files\Blender Foundation\Blender 4.1\blender.exe"),

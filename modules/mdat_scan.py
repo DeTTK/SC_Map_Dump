@@ -186,7 +186,7 @@ def write_filtered_scan_chunks(scan: dict, out_dir: Path, selected: Iterable[tup
     for row in chunk_rows.values():
         by_file.setdefault(Path(row["file"]), []).append(row)
 
-    staged: dict[tuple[int, int], list[tuple[int, int, bytes]]] = {}
+    staged: dict[tuple[int, int], list[tuple[int, int, tuple[int, int, int, int], bytes]]] = {}
     for source, rows in by_file.items():
         coords = parse_region_name(source)
         if coords is None:
@@ -202,14 +202,14 @@ def write_filtered_scan_chunks(scan: dict, out_dir: Path, selected: Iterable[tup
                 continue
             local_index = local_z * REGION_SIZE + local_x
             entry_offset = local_index * HEADER_ENTRY_SIZE
-            sector, sector_count, *_uuid = struct.unpack_from(">6i", data, entry_offset)
+            sector, sector_count, *uuid_words = struct.unpack_from(">6i", data, entry_offset)
             if sector <= 0 or sector_count <= 0:
                 continue
             start = sector * SECTOR_SIZE
             end = start + sector_count * SECTOR_SIZE
             if end > len(data):
                 continue
-            staged.setdefault(coords, []).append((local_index, sector_count, data[start:end]))
+            staged.setdefault(coords, []).append((local_index, sector_count, tuple(uuid_words), data[start:end]))
 
     written = 0
     for (rx, rz), payload_rows in staged.items():
@@ -217,11 +217,11 @@ def write_filtered_scan_chunks(scan: dict, out_dir: Path, selected: Iterable[tup
         payloads = bytearray()
         next_sector = math.ceil(HEADER_SIZE / SECTOR_SIZE)
         seen_local: set[int] = set()
-        for local_index, sector_count, payload in sorted(payload_rows, key=lambda item: item[0]):
+        for local_index, sector_count, uuid_words, payload in sorted(payload_rows, key=lambda item: item[0]):
             if local_index in seen_local:
                 continue
             seen_local.add(local_index)
-            struct.pack_into(">6i", header, local_index * HEADER_ENTRY_SIZE, next_sector, sector_count, 0, 0, 0, 0)
+            struct.pack_into(">6i", header, local_index * HEADER_ENTRY_SIZE, next_sector, sector_count, *uuid_words)
             payloads.extend(payload)
             next_sector += sector_count
             written += 1

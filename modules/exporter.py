@@ -9,7 +9,6 @@ import uuid
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
-
 from .mdat_scan import write_filtered_scan_chunks
 from .paths import EXPORTS_DIR, MDAT_EXPORT_SCRIPT, ROOT, TMP_DIR, find_blender, game_texture_paths
 
